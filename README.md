@@ -139,5 +139,10 @@ Fungsi ini menerima satu parameter image, yang merupakan gambar yang akan dipros
 <br>15.plt.subplot(224), plt.imshow(cv2.cvtColor(red_green_blue_detection, cv2.COLOR_BGR2RGB)), plt.title('Red-Green-Blue Color Detection'): Ini menambahkan subplot keempat yang menampilkan hasil deteksi dan penyorotan warna merah, hijau, dan biru dengan judul 'Red-Green-Blue Color Detection'.</br>
 <br>16.plt.show(): Ini menampilkan hasil</br>
 
+#REFENRENSI
+
+<br>1.https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md</br>
+<br>2.https://www.w3schools.com/python/default.asp</br>
+
 
 
